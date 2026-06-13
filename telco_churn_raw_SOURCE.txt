@@ -1,0 +1,3 @@
+Download raw dataset dari:
+https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+Simpan sebagai telco_churn_raw.csv di root repository.
